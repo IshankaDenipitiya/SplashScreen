@@ -7,4 +7,4 @@ GOOD LUCK!!!
 
 #IshankaDenipitiya
 
-2019-2020 Synn~Labz © All rights reserved
+<< Synn~Labz >>
