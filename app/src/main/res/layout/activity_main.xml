@@ -7,7 +7,7 @@
     android:background="@color/logocolor"
     android:visibility="visible"
     tools:context=".MainActivity">
-
+fgh
     <ImageView
         android:id="@+id/synnlogo"
         android:layout_width="299dp"
